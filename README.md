@@ -28,7 +28,7 @@ Instructions for GKFR Mod Loader coming soon...
 
 4. This mod is safe to use and cannot get you banned from online multiplayer. As it's a texture mod, it does not have unfair advantages that affect other racers. Furthermore, the texture mod will not permanently modify the game's files. Garfield Kart - Furious Racing has no anti-cheat and anti-modding measures, therefore, a ban is impossible. 
 
-5. Not all assets in the game have been Fargield-ized. For example, the pause menu and some textures that include Garfield. Any updates (including "Better Fargield") should hopefully come at a later date.
+5. Not all assets in the game have been Fargield-ized. Any updates (including "Better Fargield") should hopefully come at a later date.
 
 6. This mod has not been tested on the Mac and Linux (+ Steam Deck) versions of Garfield Kart - Furious Racing. A console version of the mod is very unlikely.
 
