@@ -18,11 +18,6 @@ If you want to remove the mod, delete 'ModImages' and 'TextureReplacer' in the p
 
 Instructions for GKFR Mod Loader coming soon...
 
-**Known Issues**
-
-High priority: Some textures are bugged, even on Average settings.
-
-
 **Important Notes**
 
 1. If the mod breaks the game or has any other graphical/texture problems, it is highly recommended to set the graphics quality in the options menu to Average.
