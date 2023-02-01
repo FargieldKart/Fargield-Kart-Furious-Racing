@@ -52,5 +52,6 @@ Garfield Kart - Furious Racing is developed by Artefacts Studio and published by
 
 This mod is not endorsed nor sponsored by Marmite (Unilever plc).
 
-**Releases**
-https://github.com/FargieldKart/Fargield-Kart-Furious-Racing/releases
+**Latest Version**
+
+https://github.com/FargieldKart/Fargield-Kart-Furious-Racing/releases/tag/v1.5.4
