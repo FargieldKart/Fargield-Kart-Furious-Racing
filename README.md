@@ -51,3 +51,6 @@ Garfield and the Garfield Franchise are owned by Paws, Inc. Fargield is a fan-ma
 Garfield Kart - Furious Racing is developed by Artefacts Studio and published by Microids. They own all game assets.
 
 This mod is not endorsed nor sponsored by Marmite (Unilever plc).
+
+**Releases**
+https://github.com/FargieldKart/Fargield-Kart-Furious-Racing/releases
