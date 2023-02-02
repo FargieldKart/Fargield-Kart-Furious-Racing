@@ -55,4 +55,5 @@ This mod is not endorsed nor sponsored by Marmite (Unilever plc).
 **Latest Version**
 
 https://github.com/FargieldKart/Fargield-Kart-Furious-Racing/releases/tag/v1.6
+
 **Note:** If you are updating from an earlier version of Fargield Kart, replace all old modded files (including 'localization' ) with the ones from this version.
