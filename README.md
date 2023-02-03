@@ -1,7 +1,7 @@
 ![IMG_popupGarfield_](https://user-images.githubusercontent.com/123922342/216668038-fe2cbf04-5f57-4672-b09c-5253f1166ddc.png)
 ![IMG_titleLogo](https://user-images.githubusercontent.com/123922342/215550843-e68b9da0-d5bb-406e-b9e8-9476328d5fd5.png)
 ![myname](https://user-images.githubusercontent.com/123922342/215526601-2f8fe170-f56c-483d-b5fe-c9e9c9a2d475.png)
-**Installation Instructions**
+## **Installation Instructions**
 
 Download BepInEx 5.4.21 (do not download BepInEx 6, as the mod will not work) and choose either x64 or x86 based on your CPU's architecture: https://github.com/BepInEx/BepInEx/releases/tag/v5.4.21
 
@@ -21,7 +21,7 @@ For Linux (including Steam Deck): Follow the same instructions as above, but dow
 
 Instructions for GKFR Mod Loader coming soon...
 
-**Important Notes**
+## **Important Notes**
 
 1. If the mod breaks the game or has any other graphical/texture problems, it is highly recommended to set the graphics quality in the options menu to Average.
 
@@ -35,7 +35,7 @@ Instructions for GKFR Mod Loader coming soon...
 
 6. This mod has not been tested on the Mac version of Garfield Kart - Furious Racing. A console version of the mod is very unlikely.
 
-**Credits**
+## **Credits**
 
 Peter and Jacob from EVGA for blessing the community with the creation of Fargield.
 
@@ -45,7 +45,7 @@ Bacon King, Rogototo, and Canadong for fact-checking important notes 3 and 4.
 
 This mod has been designed using images from Flaticon.com. Hot dog illustration created by Icon Place. Yeast illustration created by Smashicons.
 
-**Copyright Disclaimer**
+## **Copyright Disclaimer**
 
 Copyright Disclaimer under section 107 of the Copyright Act 1976, allowance is made for “fair use” for purposes such as criticism, comment, news reporting, teaching, scholarship, education and research. Fair use is a use permitted by copyright statute that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favor of fair use. 
 
@@ -55,13 +55,13 @@ Garfield Kart - Furious Racing is developed by Artefacts Studio and published by
 
 This mod is not endorsed nor sponsored by Marmite (Unilever plc).
 
-**Latest Version**
+## **Latest Version**
 
 https://github.com/FargieldKart/Fargield-Kart-Furious-Racing/releases/tag/v1.6
 
 **Note:** If you are updating from an earlier version of Fargield Kart, replace all old modded files (including 'localization') with the ones from this version.
 
-**Images**
+## **Images**
 
 ![Screenshot (11019)](https://user-images.githubusercontent.com/123922342/216668376-0ac2ad1d-1650-491f-b5c5-737b7d6cdd4b.png)
 ![Screenshot (11000)](https://user-images.githubusercontent.com/123922342/216668429-bebdbadd-4abb-444e-a2b3-32eaa05f151e.png)
