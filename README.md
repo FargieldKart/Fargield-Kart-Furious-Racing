@@ -33,7 +33,7 @@ Instructions for GKFR Mod Loader coming soon...
 
 5. Not all assets in the game have been Fargield-ized. Any updates (including "Better Fargield") should hopefully come at a later date.
 
-6. This mod has not been tested on the Mac and Linux (+ Steam Deck) versions of Garfield Kart - Furious Racing. A console version of the mod is very unlikely.
+6. This mod has not been tested on the Mac version of Garfield Kart - Furious Racing. A console version of the mod is very unlikely.
 
 **Credits**
 
