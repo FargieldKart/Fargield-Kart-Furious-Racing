@@ -17,7 +17,7 @@ Launch the game and enjoy! :3
 
 If you want to remove the mod, delete 'ModImages' and 'TextureReplacer' in the plugins folder + delete the modded 'localization' file and rename 'localization.bak' without '.bak' in the Windows folder.
 
-For Linux users: Follow the same instructions as above, but download BepInEx x64, go to the game page in your Steam library, click on manage (cog icon) + properties and add this command in Launch Options: WINEDLLOVERRIDES="winhttp.dll=n,b" %command%
+For Linux users: Follow the same instructions as above, but download BepInEx x64, go to the game page in your Steam library, click on manage (cog icon) then properties, and add this command in Launch Options: WINEDLLOVERRIDES="winhttp.dll=n,b" %command%
 
 Instructions for GKFR Mod Loader coming soon...
 
