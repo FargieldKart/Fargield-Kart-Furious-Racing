@@ -1,3 +1,4 @@
+![IMG_popupGarfield_](https://user-images.githubusercontent.com/123922342/216668038-fe2cbf04-5f57-4672-b09c-5253f1166ddc.png)
 ![IMG_titleLogo](https://user-images.githubusercontent.com/123922342/215550843-e68b9da0-d5bb-406e-b9e8-9476328d5fd5.png)
 ![myname](https://user-images.githubusercontent.com/123922342/215526601-2f8fe170-f56c-483d-b5fe-c9e9c9a2d475.png)
 **Installation Instructions**
@@ -15,6 +16,8 @@ Move the modded 'localization' file to the same Windows folder
 Launch the game and enjoy! :3
 
 If you want to remove the mod, delete 'ModImages' and 'TextureReplacer' in the plugins folder + delete the modded 'localization' file and rename 'localization.bak' without '.bak' in the Windows folder.
+
+For Linux users: Follow the same instructions as above, but download BepInEx x64, go to the game page in your Steam library, click on manage (cog icon) + properties and add this command in Launch Options: WINEDLLOVERRIDES="winhttp.dll=n,b" %command%
 
 Instructions for GKFR Mod Loader coming soon...
 
@@ -57,3 +60,10 @@ This mod is not endorsed nor sponsored by Marmite (Unilever plc).
 https://github.com/FargieldKart/Fargield-Kart-Furious-Racing/releases/tag/v1.6
 
 **Note:** If you are updating from an earlier version of Fargield Kart, replace all old modded files (including 'localization' ) with the ones from this version.
+
+**Images**
+
+![Screenshot (11019)](https://user-images.githubusercontent.com/123922342/216668376-0ac2ad1d-1650-491f-b5c5-737b7d6cdd4b.png)
+![Screenshot (11000)](https://user-images.githubusercontent.com/123922342/216668429-bebdbadd-4abb-444e-a2b3-32eaa05f151e.png)
+![Screenshot (10968)](https://user-images.githubusercontent.com/123922342/216668600-adfc9d10-e66b-48ea-9e4e-01568fc44651.png)
+![Screenshot (10723)](https://user-images.githubusercontent.com/123922342/216668815-b9fe1fca-98b8-48b6-8d75-ce06dde61244.png)
