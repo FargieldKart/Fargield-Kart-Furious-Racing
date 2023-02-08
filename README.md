@@ -15,7 +15,7 @@ Move the plugins folder in GKFR.Fargield.Mod.by.ElectricYoshi to to C:\Program F
 
 In the same Garfield Kart game directory where you moved the plugins folder, go to "Garfield Kart Furious Racing_Data\StreamingAssets\Windows" and rename the original 'localization' file to 'localization.bak'
 
-Move the 'localization' file in GKFR.Fargield.Mod.by.ElectricYoshi to the same Windows folder in the previous step
+Move the 'localization' file in GKFR.Fargield.Mod.by.ElectricYoshi to the same Windows folder from the previous step
 
 Launch the game and enjoy! :3
 
