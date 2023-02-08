@@ -7,11 +7,13 @@
 
 Download BepInEx 5.4.21 (do not download BepInEx 6, as the mod might not work) and choose either x64 or x86 based on your CPU's architecture: https://github.com/BepInEx/BepInEx/releases/tag/v5.4.21
 
-Extract all contents of BepInEx_x--_5.4.21.0.zip to C:\Program Files (x86)\Steam\steamapps\common\Garfield Kart - Furious Racing
+If you don't know your CPU's architecture, I recommend downloading the x64 version because it's the standard archetecture for most chips form Intel and AMD right now.
 
-Move the Fargield mod's plugins folder to "Garfield Kart - Furious Racing\BepInEx"
+Extract the four contents in BepInEx_x--_5.4.21.0.zip (winhttp, doorstop_config, BepInEx folder, etc.) to C:\Program Files (x86)\Steam\steamapps\common\Garfield Kart - Furious Racing
 
-Go to "Garfield Kart - Furious Racing\Garfield Kart Furious Racing_Data\StreamingAssets\Windows" and rename the original 'localization' file to 'localization.bak'
+Move the plugins folder in GKFR.Fargield.Mod.by.ElectricYoshi to to C:\Program Files (x86)\Steam\steamapps\common\Garfield Kart - Furious Racing\BepInEx
+
+In the same Garfield Kart game directory where you moved the plugins folder, go to "Garfield Kart Furious Racing_Data\StreamingAssets\Windows" and rename the original 'localization' file to 'localization.bak'
 
 Move the 'localization' file in "GKFR.Fargield.Mod.by.ElectricYoshi" to the same Windows folder in the previous step
 
@@ -23,13 +25,13 @@ If you want to remove the mod, delete 'ModImages' and 'TextureReplacer' in the p
 
 Download BepInEx 5.4.21 x64: https://github.com/BepInEx/BepInEx/releases/download/v5.4.21/BepInEx_x64_5.4.21.0.zip
 
-Extract all contents of BepInEx_x64_5.4.21.0.zip to $HOME/.local/share/Steam/steamapps/common/Garfield Kart - Furious Racing
+Extract the four contents in BepInEx_x64_5.4.21.0.zip (winhttp, doorstop_config, BepInEx folder, etc.) to $HOME/.local/share/Steam/steamapps/common/Garfield Kart - Furious Racing
 
-Move the plugins folder in GKFR.Fargield.Mod.by.ElectricYoshi to "Garfield Kart - Furious Racing\BepInEx"
+Move the plugins folder in GKFR.Fargield.Mod.by.ElectricYoshi to $HOME/.local/share/Steam/steamapps/common/Garfield Kart - Furious Racing/BepInEx
 
-Go to "Garfield Kart - Furious Racing\Garfield Kart Furious Racing_Data\StreamingAssets\Windows" and rename the original 'localization' file to 'localization.bak'
+In the same Garfield Kart game directory where you moved the plugins folder, go to "Garfield Kart Furious Racing_Data\StreamingAssets\Windows" and rename the original 'localization' file to 'localization.bak'
 
-Move the 'localization' file in "GKFR.Fargield.Mod.by.ElectricYoshi" to the same Windows folder in the previous step
+Move the 'localization' file in "GKFR.Fargield.Mod.by.ElectricYoshi" to the same Windows folder from the previous step
 
 Open Steam (in Steam Deck desktop mode) and go to the GKFR page in your Steam library
 
