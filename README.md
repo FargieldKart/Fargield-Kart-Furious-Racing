@@ -35,6 +35,8 @@ Instructions for GKFR Mod Loader coming soon...
 
 6. This mod has not been tested on the Mac version of Garfield Kart - Furious Racing. A console version of the mod is very unlikely.
 
+7. Please make sure that Steam is not verifying game files before it launches Fargield Kart. Otherwise, it will remove the modded localization file.
+
 ## **Credits**
 
 Peter and Jacob from EVGA/Mired Media for blessing the community with the creation of Fargield.
@@ -57,7 +59,7 @@ This mod is not endorsed nor sponsored by Marmite (Unilever plc).
 
 ## **Latest Version**
 
-https://github.com/FargieldKart/Fargield-Kart-Furious-Racing/releases/tag/v1.8
+https://github.com/FargieldKart/Fargield-Kart-Furious-Racing/releases/tag/v1.8.1
 
 ## **Images**
 
