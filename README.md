@@ -11,11 +11,11 @@ If you don't know your CPU's architecture, I recommend downloading the x64 versi
 
 Extract the four contents in BepInEx_x--_5.4.21.0.zip (winhttp, doorstop_config, BepInEx folder, etc.) to C:\Program Files (x86)\Steam\steamapps\common\Garfield Kart - Furious Racing
 
-Move the plugins folder in GKFR.Fargield.Mod.by.ElectricYoshi to to C:\Program Files (x86)\Steam\steamapps\common\Garfield Kart - Furious Racing\BepInEx
+Move the plugins folder in GKFR.Fargield.Mod.by.ElectricYoshi to C:\Program Files (x86)\Steam\steamapps\common\Garfield Kart - Furious Racing\BepInEx
 
 In the same Garfield Kart - Furious Racing game directory from the previous two steps, go to "Garfield Kart Furious Racing_Data\StreamingAssets\Windows" and rename the original 'localization' file to 'localization.bak'
 
-Move the 'localization' file in GKFR.Fargield.Mod.by.ElectricYoshi to the same Windows folder from the previous step
+Move the modded 'localization' file in GKFR.Fargield.Mod.by.ElectricYoshi to the same Windows folder from the previous step
 
 Launch the game and enjoy! :3
 
@@ -29,32 +29,35 @@ Extract the four contents in BepInEx_x64_5.4.21.0.zip (winhttp, doorstop_config,
 
 Move the plugins folder in GKFR.Fargield.Mod.by.ElectricYoshi to $HOME/.local/share/Steam/steamapps/common/Garfield Kart - Furious Racing/BepInEx
 
-
 In the same Garfield Kart - Furious Racing game directory from the previous two steps, go to "Garfield Kart Furious Racing_Data\StreamingAssets\Windows" and rename the original 'localization' file to 'localization.bak'
 
-Move the 'localization' file in GKFR.Fargield.Mod.by.ElectricYoshi to the same Windows folder from the previous step
+Move the modded 'localization' file in GKFR.Fargield.Mod.by.ElectricYoshi to the same Windows folder from the previous step
 
 Open Steam (in Steam Deck desktop mode) and go to the GKFR page in your Steam library
 
 Click on Manage (cog icon), then Properties, and add this command in Launch Options: WINEDLLOVERRIDES="winhttp.dll=n,b" %command%
 
-Instructions for GKFR Mod Loader coming soon...
+Now you can play Fargield Kart - Furious Racing! Happy Farg Karting! :)
+
+If you want to remove the mod, delete 'ModImages' and 'TextureReplacer' in the plugins folder + delete the modded 'localization' file and rename 'localization.bak' without '.bak' in the Windows folder.
+
+<sub>***Instructions for GKFR Mod Loader coming soon...***</sub>
 
 ## **Important Notes (MUST READ)**
 
 1. If you are updating from an earlier version of Fargield Kart, replace all old modded files (including 'localization') with the ones from this version.
 
-2. If the mod breaks the game or has any other graphical/texture problems, it is highly recommended to set the graphics quality in the options menu to Average.
+2. Please make sure that Steam is not verifying game files before it launches Fargield Kart. Otherwise, it will remove the modded localization file.
 
-3. Other racers who do not have this mod installed will not see Fargield. They will see regular Garfield instead.
+3. If the mod causes the game to have performance issues, weird bugs, or graphical/texture problems, it is highly recommended to set the graphics quality in the options menu to Average. Alternatively, reinstall Garfield Kart - Furious Racing and try to install the mod again, or contact me for any assistance.
 
 4. This mod is safe to use and cannot get you banned from online multiplayer. As it's a texture mod, it does not have unfair advantages that affect other racers. Furthermore, the texture mod will not permanently modify the game's files. Garfield Kart - Furious Racing has no anti-cheat and anti-modding measures, therefore, a ban is impossible.
 
-5. "That looks nothing like Fargield. It's a recolored Garfield." *sighs* I know. I wish I knew how to remodel 3D assets, so he actually looks like the real deal. The longer fur and whiskers would have been great, but modding Unity games suck. Just pretend it's *Modern* Fargield, like Classic Sonic and Modern Sonic lmao. Actually, if this mod is a success, I'll see what I can do with the 3D modelling for a future revision. Stay tuned for more updates! :D
+5. Other racers who do not have this mod installed will not see Fargield. They will see regular Garfield instead.
 
-6. This mod has not been tested on the Mac version of Garfield Kart - Furious Racing. A console version of the mod is very unlikely.
+6. "That looks nothing like Fargield. It's a recolored Garfield." *sighs* I know. I wish I knew how to remodel 3D assets, so he actually looks like the real deal. The longer fur and whiskers would have been great, but modding Unity games suck. Just pretend it's *Modern* Fargield, like Classic Sonic and Modern Sonic lmao. Actually, if this mod is a success, I'll see what I can do with the 3D modelling for a future revision. Stay tuned for more updates! :D
 
-7. Please make sure that Steam is not verifying game files before it launches Fargield Kart. Otherwise, it will remove the modded localization file.
+7. This mod has not been tested on the Mac version of Garfield Kart - Furious Racing. A console version of the mod is very unlikely.
 
 ## **Credits**
 
@@ -62,7 +65,7 @@ Peter and Jacob from EVGA/Mired Media for blessing the community with the creati
 
 Kumarin from F95Zone (NSFW website) for creating the Texture Replacer plugin (v1.0.4.1) for BepInEx.
 
-Bacon King, Rogototo, and Canadong for fact-checking important notes 3 and 4.
+Bacon King, Rogototo, and Canadong for fact-checking important notes 4 and 5.
 
 This mod was created using images from Flaticon.com. Hot dog illustration made by Icon Place. Yeast illustration made by Smashicons.
 
