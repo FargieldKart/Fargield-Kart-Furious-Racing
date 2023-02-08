@@ -7,7 +7,7 @@
 
 Download BepInEx 5.4.21 (do not download BepInEx 6, as the mod might not work) and choose either x64 or x86 based on your CPU's architecture: https://github.com/BepInEx/BepInEx/releases/tag/v5.4.21
 
-If you don't know your CPU's architecture, I recommend downloading the x64 version because it's the standard archetecture for most chips form Intel and AMD right now.
+If you don't know your CPU's architecture, I recommend downloading the x64 version because it's the standard archetecture for most chips from Intel and AMD right now.
 
 Extract the four contents in BepInEx_x--_5.4.21.0.zip (winhttp, doorstop_config, BepInEx folder, etc.) to C:\Program Files (x86)\Steam\steamapps\common\Garfield Kart - Furious Racing
 
