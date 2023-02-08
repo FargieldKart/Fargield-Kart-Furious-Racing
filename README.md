@@ -13,7 +13,7 @@ Extract the four contents in BepInEx_x--_5.4.21.0.zip (winhttp, doorstop_config,
 
 Move the plugins folder in GKFR.Fargield.Mod.by.ElectricYoshi to to C:\Program Files (x86)\Steam\steamapps\common\Garfield Kart - Furious Racing\BepInEx
 
-In the same Garfield Kart game directory where you moved the plugins folder, go to "Garfield Kart Furious Racing_Data\StreamingAssets\Windows" and rename the original 'localization' file to 'localization.bak'
+In the same Garfield Kart - Furious Racing game directory from the previous two steps, go to "Garfield Kart Furious Racing_Data\StreamingAssets\Windows" and rename the original 'localization' file to 'localization.bak'
 
 Move the 'localization' file in GKFR.Fargield.Mod.by.ElectricYoshi to the same Windows folder from the previous step
 
@@ -29,7 +29,8 @@ Extract the four contents in BepInEx_x64_5.4.21.0.zip (winhttp, doorstop_config,
 
 Move the plugins folder in GKFR.Fargield.Mod.by.ElectricYoshi to $HOME/.local/share/Steam/steamapps/common/Garfield Kart - Furious Racing/BepInEx
 
-In the same Garfield Kart game directory where you moved the plugins folder, go to "Garfield Kart Furious Racing_Data\StreamingAssets\Windows" and rename the original 'localization' file to 'localization.bak'
+
+In the same Garfield Kart - Furious Racing game directory from the previous two steps, go to "Garfield Kart Furious Racing_Data\StreamingAssets\Windows" and rename the original 'localization' file to 'localization.bak'
 
 Move the 'localization' file in GKFR.Fargield.Mod.by.ElectricYoshi to the same Windows folder from the previous step
 
