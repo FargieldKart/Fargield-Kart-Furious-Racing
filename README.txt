@@ -36,6 +36,8 @@ Actually, if this mod is a success, I'll see what I can do with the 3D modelling
 
 6. This mod has not been tested on the Mac version of Garfield Kart - Furious Racing. A console version of the mod is very unlikely.
 
+7. Please make sure that Steam is not verifying game files before it launches Fargield Kart. Otherwise, it will remove the modded localization file.
+
 Credits:
 
 Peter and Jacob from EVGA/Mired Media for blessing the community with the creation of Fargield.
