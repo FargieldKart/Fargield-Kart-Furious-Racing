@@ -3,21 +3,37 @@
 ![myname](https://user-images.githubusercontent.com/123922342/215526601-2f8fe170-f56c-483d-b5fe-c9e9c9a2d475.png)
 ## **Installation Instructions**
 
+**For Windows:**
+
 Download BepInEx 5.4.21 (do not download BepInEx 6, as the mod might not work) and choose either x64 or x86 based on your CPU's architecture: https://github.com/BepInEx/BepInEx/releases/tag/v5.4.21
 
 Extract all contents of BepInEx_x--_5.4.21.0.zip to C:\Program Files (x86)\Steam\steamapps\common\Garfield Kart - Furious Racing
 
-Move this mod's plugins folder to "Garfield Kart - Furious Racing\BepInEx"
+Move the Fargield mod's plugins folder to "Garfield Kart - Furious Racing\BepInEx"
 
 Go to "Garfield Kart - Furious Racing\Garfield Kart Furious Racing_Data\StreamingAssets\Windows" and rename the original 'localization' file to 'localization.bak'
 
-Move the modded 'localization' file to the same Windows folder
+Move the 'localization' file in "GKFR.Fargield.Mod.by.ElectricYoshi" to the same Windows folder in the previous step
 
 Launch the game and enjoy! :3
 
 If you want to remove the mod, delete 'ModImages' and 'TextureReplacer' in the plugins folder + delete the modded 'localization' file and rename 'localization.bak' without '.bak' in the Windows folder.
 
-**For Linux (including Steam Deck):** Follow the same instructions as above, but download BepInEx 5.4.21 x64 + extract it to “$HOME/.local/share/Steam/steamapps/common/Garfield Kart - Furious Racing”, go to the GKFR page in your Steam library, click on Manage (cog icon) then Properties, and add this command in Launch Options: WINEDLLOVERRIDES="winhttp.dll=n,b" %command%
+**For Linux (including Steam Deck):**
+
+Download BepInEx 5.4.21 x64: https://github.com/BepInEx/BepInEx/releases/download/v5.4.21/BepInEx_x64_5.4.21.0.zip
+
+Extract all contents of BepInEx_x64_5.4.21.0.zip to $HOME/.local/share/Steam/steamapps/common/Garfield Kart - Furious Racing
+
+Move the plugins folder in GKFR.Fargield.Mod.by.ElectricYoshi to "Garfield Kart - Furious Racing\BepInEx"
+
+Go to "Garfield Kart - Furious Racing\Garfield Kart Furious Racing_Data\StreamingAssets\Windows" and rename the original 'localization' file to 'localization.bak'
+
+Move the 'localization' file in "GKFR.Fargield.Mod.by.ElectricYoshi" to the same Windows folder in the previous step
+
+Open Steam (in Steam Deck desktop mode) and go to the GKFR page in your Steam library
+
+Click on Manage (cog icon), then Properties, and add this command in Launch Options: WINEDLLOVERRIDES="winhttp.dll=n,b" %command%
 
 Instructions for GKFR Mod Loader coming soon...
 
