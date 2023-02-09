@@ -45,7 +45,7 @@ If you want to remove the mod, delete 'ModImages' and 'TextureReplacer' in the p
 
 ## **Important Notes (MUST READ)**
 
-1. If you are updating from an earlier version of Fargield Kart, replace all old modded files (including 'localization') with the ones from this version.
+1. If you are updating from an earlier version of Fargield Kart, replace all old modded files (including 'localization') with the ones from the latest release.
 
 2. Please do not click 'Verify integrity of game files' in Steam (unless you *really* have to) after the installation of Fargield Kart. Otherwise, it will remove the modded localization file.
 
