@@ -47,7 +47,7 @@ If you want to remove the mod, delete 'ModImages' and 'TextureReplacer' in the p
 
 1. If you are updating from an earlier version of Fargield Kart, replace all old modded files (including 'localization') with the ones from this version.
 
-2. Please make sure that Steam is not verifying game files before it launches Fargield Kart. Otherwise, it will remove the modded localization file.
+2. Please do not click 'Verify integrity of game files' in Steam (unless you really have to) after the installation of Fargield Kart. Otherwise, it will remove the modded localization file.
 
 3. If the mod causes the game to have performance issues, weird bugs, or graphical/texture problems, it is highly recommended to set the graphics quality in the options menu to Average. Alternatively, reinstall Garfield Kart - Furious Racing and try to install the mod again, or contact me for any assistance.
 
