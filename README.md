@@ -33,7 +33,7 @@ In the same Garfield Kart - Furious Racing game directory from the previous two 
 
 Move the modded 'localization' file in GKFR.Fargield.Mod.by.ElectricYoshi to the same Windows folder from the previous step
 
-Open Steam (in Steam Deck desktop mode) and go to the GKFR page in your Steam library
+Open Steam (you can also go to Gaming Mode if on Steam Deck) and go to the GKFR page in your Steam library
 
 Click on Manage (cog icon), then Properties, and add this command in Launch Options: WINEDLLOVERRIDES="winhttp.dll=n,b" %command%
 
