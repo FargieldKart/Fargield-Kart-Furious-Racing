@@ -59,7 +59,7 @@ If you want to remove the mod, delete 'ModImages' and 'TextureReplacer' in the p
 
 7. If you cannot locate your Garfield Kart - Furious Racing game directory: Open Steam and go to the GKFR page in your Steam library. Click on Manage (cog icon), Manage once more, and select 'Browse local files'.
 
-8. This mod has not been tested on the Mac and Microsoft Store versions of Garfield Kart - Furious Racing. A console version of the mod is very unlikely.
+8. This mod has not been tested on the Mac and Microsoft Store versions of Garfield Kart - Furious Racing (if you have tested the mod on one of these platforms, please let me know). A console version of the mod is very unlikely, and a GeForce NOW version is not possible.
 
 ## **Credits**
 
