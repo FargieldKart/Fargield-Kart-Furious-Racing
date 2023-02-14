@@ -89,8 +89,6 @@ https://github.com/FargieldKart/Fargield-Kart-Furious-Racing/releases/tag/v1.8.2
 
 ## **Discord Server**
 
-**Discord Server**
-
 If you need help with installing the Fargield Kart mod, or if you just want to race with other Farg Karters, check out our new Discord server: https://discord.gg/hyeM4wum4y
 
 ## **Images**
