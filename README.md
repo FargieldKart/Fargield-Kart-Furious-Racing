@@ -71,6 +71,8 @@ Kumarin from F95Zone (NSFW website) for creating the Texture Replacer plugin (v1
 
 Bacon King, Rogototo, and Canadong for fact-checking important notes 4 and 5.
 
+Emniag for being an excellent moderator in the Fargield Kart - Furious Racing server on Discord (A.K.A. The Official Unofficial Mired Media Discord Server).
+
 This mod was created using images from Flaticon.com. Hot dog illustration made by Icon Place. Yeast illustration made by Smashicons.
 
 ## **Copyright Disclaimer**
@@ -89,7 +91,7 @@ https://github.com/FargieldKart/Fargield-Kart-Furious-Racing/releases/tag/v1.8.2
 
 ## **Discord Server**
 
-If you need help with installing the Fargield Kart mod, or if you just want to race with other Farg Karters, check out our new Discord server: https://discord.gg/hyeM4wum4y
+If you need help with installing the Fargield Kart mod, or if you just want to race with other Farg Karters, check out our Discord server: https://discord.gg/hyeM4wum4y
 
 ## **Images**
 
