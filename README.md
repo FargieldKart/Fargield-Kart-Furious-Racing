@@ -79,7 +79,7 @@ This mod was created using images from Flaticon.com. Hot dog illustration made b
 
 Copyright Disclaimer under section 107 of the Copyright Act 1976, allowance is made for “fair use” for purposes such as criticism, comment, news reporting, teaching, scholarship, education and research. Fair use is a use permitted by copyright statute that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favor of fair use. 
 
-Garfield and the Garfield Franchise are owned by Paws, Inc. Fargield is a fan-made character for exclusively non-commercial and satirical fair use purposes.
+Garfield and the Garfield Franchise are owned by Paramount Global and Paws, Inc. Fargield is a fan-made character for exclusively non-commercial and satirical fair use purposes.
 
 Garfield Kart - Furious Racing is developed by Artefacts Studio and published by Microids (Anuman Interactive SA). They own all game assets.
 
