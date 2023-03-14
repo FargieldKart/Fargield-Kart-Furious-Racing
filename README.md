@@ -61,7 +61,7 @@ If you want to remove the mod, delete 'ModImages' and 'TextureReplacer' in the p
 
 6. "That looks nothing like Fargield. It's a recolored Garfield." * sighs * I know. I wish I knew how to remodel 3D assets, so he actually looks like the real deal. The longer fur and whiskers would have been great, but modding Unity games suck. Just pretend it's *Modern* Fargield, like Classic Sonic and Modern Sonic lmao. Actually, if this mod is a success, I'll see what I can do with the 3D modelling for a future revision. Stay tuned for more updates! :D
 
-7. This mod has not been tested on the Mac and Microsoft Store versions of Garfield Kart - Furious Racing (if you have tested the mod on one of these platforms, please let me know). A console version of the mod is very unlikely, and a GeForce NOW version is not possible.
+7. This mod has not been tested on the Mac version of Garfield Kart - Furious Racing (if you have tested the mod on a Mac computer, please let me know). This mod is incompatible with the Microsoft Store version of GKFR, a console version of the mod is very unlikely, and a GeForce NOW version is not possible.
 
 ## **Credits**
 
