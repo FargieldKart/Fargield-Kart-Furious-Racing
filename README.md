@@ -15,13 +15,15 @@ Extract the three contents in BepInEx_x--_5.4.21.0.zip (winhttp.dll, doorstop_co
 
 Move the plugins folder that's inside GKFR.Fargield.Mod.vX.Y.Z.by.ElectricYoshi to "Garfield Kart - Furious Racing\BepInEx"
 
-At the same Garfield Kart - Furious Racing game directory from the previous two steps, go to "Garfield Kart Furious Racing_Data\StreamingAssets\Windows" and look for a file called 'localization'. Rename that file to 'localization.bak' so you have a copy of the original in-game text
+At the same Garfield Kart - Furious Racing game directory from the previous two steps, go to "Garfield Kart Furious Racing_Data\Managed" and look for a file called 'Assembly-CSharp.dll'. Rename that file to 'localization.bak' so you have a copy of the original file.
 
-Move the modded 'localization' file that's inside GKFR.Fargield.Mod.vX.Y.Z.by.ElectricYoshi to the same Windows folder from the previous step
+Move the modded 'Assembly-CSharp.dll' file that's inside GKFR.Fargield.Mod.vX.Y.Z.by.ElectricYoshi to the same 'Managed' folder from the previous step
+
+Go back to the Garfield Kart Furious Racing_Data folder and head to "StreamingAssets\Windows". Look for a file called 'localization'. Rename that file to 'localization.bak' so you also have a copy of the original in-game text.
 
 Launch the game and enjoy! :3
 
-If you want to remove the mod, delete 'ModImages' and 'TextureReplacer' in the plugins folder + delete the modded 'localization' file and rename 'localization.bak' without '.bak' in the Windows folder.
+If you want to remove the mod, delete 'ModImages' and 'TextureReplacer' in the plugins folder. Then, delete the modded localization and Assembly-CSharp.dll files as well. Rename the '.bak' versions of these files without .bak, and you're back to vanilla GKFR.
 
 **For Linux (including Steam Deck):**
 
