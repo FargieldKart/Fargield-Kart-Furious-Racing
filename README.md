@@ -104,7 +104,7 @@ This mod is not endorsed nor sponsored by Marmite (Unilever plc).
 
 ## **Latest Version**
 
-https://github.com/FargieldKart/Fargield-Kart-Furious-Racing/releases/tag/v1.9.2
+https://github.com/FargieldKart/Fargield-Kart-Furious-Racing/releases/tag/v1.9.4
 
 ## **Discord Server**
 
