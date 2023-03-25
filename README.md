@@ -88,6 +88,8 @@ Special thanks to mattb_1, Udder_Calamity, CaerbannogRabbit, fragilityv1, and gg
 
 Shoutout to streamers - elm0n3y, SpitefulGuppy, and CoalitionChris - for their outstanding support.
 
+Mippy for writing Fargield's better character description for this version. :D
+
 And to everyone who also supported and downloaded Fargield Kart - Furious Racing. <3
 
 This mod was created using images from Flaticon.com. Hot dog illustration made by Icon Place. Yeast illustration made by Smashicons.
