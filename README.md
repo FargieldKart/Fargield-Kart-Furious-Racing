@@ -76,23 +76,29 @@ If you want to remove the mod, delete 'ModImages' and 'TextureReplacer' in the p
 
 ## **Credits**
 
-Peter and Jacob from EVGA/Mired Media for blessing the community with the creation of Fargield, as well as their own contributions to the mod.
+Jacob and Peter at Mired Media for blessing the community with the creation of Fargield, their support, and their own contributions to the mod!
 
 Kumarin from F95Zone (NSFW website) for creating the Texture Replacer plugin (v1.0.4.1) for BepInEx.
 
-Bacon King, Rogototo, and Canadong for fact-checking important notes 5 and 6.
+SlamGrene from Newgrounds for designing the 16-bit Garfield Kart sprite as an SRB2K mod (https://slamgrene.newgrounds.com/news/post/1049269), and Peter (artofphn) for recoloring it into Fargield for the server icon.
 
-Emniag for being an excellent moderator in the Fargield Kart - Furious Racing server on Discord (A.K.A. The Official Unofficial Mired Media Discord Server).
+Bacon King for making the Discord server an approved Garfield Kart community on the Garfield Kart Tournaments server. I would also like to thank the folks from GKT who joined the FargMired Discord!
 
-Special thanks to mattb_1, Udder_Calamity, CaerbannogRabbit, fragilityv1, and ggood003 for their amazing mod suggestions.
+Bare Tree Media for making the Garfield emojis and stickers, and the icon creators at Flaticon.com for the Hot Hog and Marmite emojis.
 
-Shoutout to streamers - elm0n3y, SpitefulGuppy, and CoalitionChris - for their outstanding support.
+emniag (Digi) for being the mastermind behind merging the Fargield Kart server as also the Mired Media server, creating the Fargield Kart installer, original music for Mired Media, and outstanding work as a super friendly and attentive moderator!
 
-Mippy for writing Fargield's better character description for this version. :D
+Rogototo, Bacon King, and Canadong for fact-checking important README notes 5 and 6.
 
-And to everyone who also supported and downloaded Fargield Kart - Furious Racing. <3
+Special thanks to mattb_1, Udder_Calamity (for all the mooooos!), CaerbannogRabbit, fragilityv1, xxx514 and ggood003 for being awesome mod testers, as well as their amazing suggestions!
+
+Big thanks and shoutout to the Catpak Crew for their wonderful support. Much love to them!
+
+Shoutout to streamers - BlondiebutGeeky, CoalitionChris, and SpitefulGuppy!
 
 This mod was created using images from Flaticon.com. Hot dog illustration made by Icon Place. Yeast illustration made by Smashicons.
+
+...And BIG thanks to everyone who also supported and downloaded Fargield Kart - Furious Racing <3
 
 ## **Copyright Disclaimer**
 
