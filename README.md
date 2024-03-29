@@ -1,7 +1,9 @@
 ![IMG_popupGarfield_](https://user-images.githubusercontent.com/123922342/216668038-fe2cbf04-5f57-4672-b09c-5253f1166ddc.png)
 ![IMG_titleLogo](https://user-images.githubusercontent.com/123922342/215550843-e68b9da0-d5bb-406e-b9e8-9476328d5fd5.png)
 ![myname](https://user-images.githubusercontent.com/123922342/215526601-2f8fe170-f56c-483d-b5fe-c9e9c9a2d475.png)
-## **Installation Instructions**
+# ***<ins>Download the new Fargield Kart installer, which is faster and easier than the manual install:</ins> https://github.com/FargieldKart/Fargield-Kart-Furious-Racing/releases/tag/v1.01***
+
+## **Installation Instructions (MANUAL INSTALL ONLY)**
 
 **For Windows:**
 
